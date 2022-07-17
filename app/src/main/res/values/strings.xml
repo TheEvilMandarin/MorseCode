@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MorseCode</string>
+    <string name="Title">Азбука Морзе</string>
+    <string name="Buttons_main">Переводчик</string>
+    <string name="action_reference">Справка</string>
+    <string name="first_hint">Разрешены только следующие символы\nАаБбВвГг....ЮюЯя01234...89\n. , ? \' " ! / ) : ; = + - \ @</string>
+    <string name="first_hint_eng">Разрешены только следующие символы\nAaBbCcDd....YyZz01234...89\n. , ? \' " ! / ) : ; = + - \ @</string>
+    <string name="first_digit">абвгдеёжзийклмнопрстуфхцчшщъыьэюяАБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ1234567890.,!-+=()?\':;@/ "</string>
+    <string name="second_digit">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890.,!-+=()?\':;@/ "</string>
+    <string name="toggleOff">Текст - Морзе</string>
+    <string name="toggleOn">Морзе - Текст</string>
+    <string name="toggleText">ToggleButton</string>
+    <string name="second_hint">Morse code</string>
+    <string name="third_hint">Воспользуйтесь нижней клавиатурой для \nввода</string>
+    <string name="fourth_hint">Результат</string>
+    <string name="main_button">Ввод кода Морзе</string>
+    <string name="backspace">Стереть</string>
+    <string name="space">Пробел</string>
+    <string name="language_button">Смена языка</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
